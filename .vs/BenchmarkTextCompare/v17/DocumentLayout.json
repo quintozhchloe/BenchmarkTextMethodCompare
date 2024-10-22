@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ChloeGit\\BenchmarkTextCompare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC4D61C-4479-4FDF-8D08-50D5E670C02A}|BenchmarkTextCompare\\BenchmarkTextCompare.csproj|f:\\chloegit\\benchmarktextcompare\\benchmarktextcompare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC4D61C-4479-4FDF-8D08-50D5E670C02A}|BenchmarkTextCompare\\BenchmarkTextCompare.csproj|solutionrelative:benchmarktextcompare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 525,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ChloeGit\\BenchmarkTextCompare\\BenchmarkTextCompare\\Program.cs",
+              "RelativeDocumentMoniker": "BenchmarkTextCompare\\Program.cs",
+              "ToolTip": "F:\\ChloeGit\\BenchmarkTextCompare\\BenchmarkTextCompare\\Program.cs",
+              "RelativeToolTip": "BenchmarkTextCompare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:55:57.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
